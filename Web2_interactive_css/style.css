@@ -1,0 +1,7 @@
+span{
+    color: rgb(150, 255, 0);
+} 
+span:hover{
+    color: rgb(255,150,0);
+    transition:0.5s;
+}
